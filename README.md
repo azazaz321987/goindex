@@ -1,6 +1,6 @@
 ![GoIndex](https://raw.githubusercontent.com/donwa/goindex/master/themes/logo.png)  
   
-GoIndex  
+GoIndex  原版
 ====  
 Google Drive Directory Index  
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser on Cloudflare Workers.    
